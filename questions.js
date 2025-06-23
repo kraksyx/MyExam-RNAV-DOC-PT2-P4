@@ -40,12 +40,12 @@ const questions = [
     "correct": 2
   },
   {
-    "question": "What are the basic elements transmitted by NAVSTAR/GPS satellites?",
+    "question": "What are the basic elements transmitted by NAVSTAR/GPS satellites? i. offset of the satellite clock from GMT ii. edphemeris data iii. health data iv. ionospheric delays v. solar activity",
     "options": [
-      "offset of the satellite clock from GMT",
-      "ephemeris data",
-      "health data",
-      "ionospheric delays"
+      "i, ii, iv ",
+      "iv and v only",
+      "all of the above",
+      "i only"
     ],
     "correct": 0
   },
